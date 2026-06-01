@@ -1,0 +1,61 @@
+body {
+  background-color: #232832;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 97%;
+  margin-top: 80px;
+  margin-left: 70px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  margin-right: 160px;
+  font-size: 26px;
+  transition: color 0.3s ease;
+}
+
+#homeNav {
+  font-size: 29px;
+  margin-left: 84px;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+#homeNav:hover {
+  color: grey;
+}
+
+#about {
+  color: white;
+  transition: color 300ms ease;
+}
+
+#about:hover {
+  color: grey;
+}
+
+#categories {
+  color: white;
+  transition: color 300ms ease;
+}
+
+#categories:hover {
+  color: grey;
+}
+
+#articles {
+  color: white;
+  transition: color 300ms ease;
+}
+
+#articles:hover {
+  color: grey;
+}
