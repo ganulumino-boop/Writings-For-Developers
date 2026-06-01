@@ -59,3 +59,84 @@ body {
 #articles:hover {
   color: grey;
 }
+
+#text1 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text1:hover {
+  color: white;
+}
+
+#text2 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text2:hover {
+  color: white;
+}
+
+#text3 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text3:hover {
+  color: white;
+}
+
+#text4 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text4:hover {
+  color: white;
+}
+
+#text5 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text5:hover {
+  color: white;
+}
+
+#text6 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text6:hover {
+  color: white;
+}
+
+#text7 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text7:hover {
+  color: white;
+}
+
+#text8 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text8:hover {
+  color: white;
+}
+
+#text9 {
+  color: grey;
+  transition: color ease 450ms;
+}
+
+#text9:hover {
+  color: white;
+}
